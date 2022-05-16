@@ -1,13 +1,17 @@
-# Phoneketmon
-from itertools import combinations
+"""
+    폰켓몬
+
+    - 연구실에 있는 N 마리의 폰켓몬 중 N/2 마리의 폰켓몬 선택
+    - 서로 다른 번호(종류)의 폰켓몬을 선택할 때, 가질 수 있는 폰켓몬 종류 수의 최댓값 구하기
+"""
+
 def solution(nums):
+    # N/2 마리를 고른 경우와 중복을 제외한 폰켓몬을 고른 경우의 가짓 수 중 최소값을 선택하면 됨
+    # N/2 마리를 고른 경우가 더 작으면 폰켓몬 종류가 N/2 이상이므로 N/2개 종류의 폰켓몬을 획득 가능
+    # 중복을 제외한 폰켓몬 수가 더 작으면 N/2마리를 골라도 중복으로 인해 종류 수가 줄어듬.
     return min(len(nums)/2, len(set(nums)))
 
+nums = [3,1,2,3]
+nums2 = [3,3,3,2,2,4]
 
-def My_solution(nums):
-    answer = 0
-    set_num = set(nums)
-    if len(nums)/2 >= len(set_num):
-        return len(set_num)
-    else:
-        return len(nums)/2
+print(solution(nums))

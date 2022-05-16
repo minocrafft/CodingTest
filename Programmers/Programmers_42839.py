@@ -1,7 +1,16 @@
 # Find prime numbers
+"""
+    소수 찾기
+
+    - 수가 적힌 종이 조각을 붙여 소수 만들기
+    - 종이 조각으로 만들 수 있는 소수가 몇개인지 반환
+"""
+
+# 에라토스테네스의 체 검색해보기
 import math
 from itertools import permutations
 
+# 소수 판별
 def is_prime_number(n):
     if n == 0 or n == 1:
         return False
