@@ -1,6 +1,7 @@
 # Compression of strings
 """
-    File Contents:문자열 압축
+    File Name: Programmers_60057.py
+    File Contents: 문자열 압축
     Programmed by Minho Kim 2022.06.14 (Tue)
 
     - 반복되는 문자열을 압축하기
@@ -13,43 +14,26 @@
     3. 현재 길이를 저장 후 길이가 제일 짧을 때까지 반복
 """
 
-from collections import Counter
-import re
-
 
 def solution(string):
-    print(string)
     answer = []
-    for step in range(1, len(string)):
+    for step in range(1, int(len(string) / 2) + 2):
         split_string = [string[i:i + step] for i in range(0, len(string), step)]
-        print(f"new_string is {split_string}")
         new_string = ''
-        i, j, cnt = 0, 0, 0
-        for s in range(len(split_string)):
-            if split_string[s] == split_string[i]:
+        cur_idx, cnt = 0, 0
+        for idx in range(len(split_string)):
+            if split_string[idx] == split_string[cur_idx]:
                 cnt += 1
             else:
-                if cnt == 1:
-                    new_string += split_string[i]
-                    continue
-                new_string += str(cnt) + split_string[i]
-                cnt = 1
-                i = s
+                if cnt > 1:
+                    new_string += str(cnt) + split_string[cur_idx]
+                else:
+                    new_string += split_string[cur_idx]
+                cur_idx, cnt = idx, 1
+        if cnt > 1:
+            new_string += str(cnt) + split_string[cur_idx]
+        else:
+            new_string += split_string[cur_idx]
         answer.append(new_string)
 
-    print(answer)
-
-
-        # counter_string = Counter(split_string)
-        # for k in counter_string.keys():
-        #     print(f"Key for Counter_string: {k}")
-        #     if k in split_string:
-        #         new_string = re.sub(f'{k}+', f'{k}', string)
-        #         print(f"new_string: {new_string}")
-        # new_string = re.replace(f'{Counter_string}')
-
-        # print(f"{dir(re.__doc__)}")
-
-
-s = "aabbaccc"
-solution(s)
+    return len(min(answer, key=lambda x: len(x)))
