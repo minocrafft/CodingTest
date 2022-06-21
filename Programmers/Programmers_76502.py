@@ -24,7 +24,7 @@ def check_bracket(string):
 
 def solution(s):
     right_cnt = 0
-    for x in range(len(s)):
+    for _ in range(len(s)):
         s = s[1:] + s[0]
         right_cnt += check_bracket(s)
 
