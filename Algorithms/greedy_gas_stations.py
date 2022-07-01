@@ -1,9 +1,10 @@
 from collections import deque
 
-def fuel_check(G, gas_stations):
-    fuel = G
+
+def fuel_check(g, gas_stations):
+    fuel, fuel_cnt = g, 0
     distance = fuel
-    fuel_cnt = 0
+    gas_stations = deque(gas_stations)
     while len(gas_stations) >= 2:
         curr, next = gas_stations.popleft(), gas_stations.popleft()
         if curr + fuel < next:
@@ -20,7 +21,7 @@ def main():
     size = int(input())
     for _ in range(size):
         G, L = map(int, input().split())
-        gas_stations = deque(list(map(int, input().split())) + [L])
+        gas_stations = list(map(int, input().split())) + [L]
         print(fuel_check(G, gas_stations))
 
 
