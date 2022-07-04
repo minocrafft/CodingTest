@@ -6,14 +6,13 @@ def fuel_check(g, gas_stations):
     distance = fuel
     gas_stations = deque(gas_stations)
     while len(gas_stations) >= 2:
-        curr, next = gas_stations.popleft(), gas_stations.popleft()
+        curr, next = gas_stations.popleft(), gas_stations[0]
         if curr + fuel < next:
             return -1
         if distance < next:
             fuel_cnt += 1
             distance = curr + fuel
-        gas_stations.appendleft(next)
-
+            
     return fuel_cnt
 
 
