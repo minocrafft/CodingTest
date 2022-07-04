@@ -12,7 +12,7 @@ def fuel_check(g, gas_stations):
         if distance < next:
             fuel_cnt += 1
             distance = curr + fuel
-            
+
     return fuel_cnt
 
 
