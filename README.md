@@ -1,4 +1,4 @@
-# CodingTest
+# coding-test
 - Coding Test Solution ( including Baekjoon Online judge, Programmers, etc... )
 - Algorithms
 
