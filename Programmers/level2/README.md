@@ -1,4 +1,4 @@
-# Level 2 collections
+# Level 2 collection
 
 |Problems|Scripts|
 |---|---|
