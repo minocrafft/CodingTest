@@ -1,8 +1,6 @@
 # Level 2 collections
 
-### Problems
-
-|Problem|Script|
+|Problems|Scripts|
 |---|---|
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [12899.py](12899.py) |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | [12909.py](12909.py) |
