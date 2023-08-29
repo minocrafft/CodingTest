@@ -6,7 +6,7 @@
 |---|---|
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | 12903.py |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | 12906.py |
-| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) - 12910.py |
+| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | 12910.py |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | 12912.py |
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | 12916.py |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | 12917.py |
