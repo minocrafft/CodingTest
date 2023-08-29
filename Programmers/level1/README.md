@@ -1,8 +1,6 @@
-# Level 1 collections
+# Level 1 collection
 
-### Problems
-
-|Problem|Script|
+|Problems|Scripts|
 |---|---|
 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [1845.py](1845.py) |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [12903.py](12903.py) |
