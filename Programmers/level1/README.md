@@ -48,4 +48,5 @@
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) | [87389.py](87389.py) |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [92334.py](92334.py) |
 | [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | [133502.py](133502.py) |
+| [추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963) | [176963.py](176963.py) |
 | [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871) | [178871.py](178871.py) |
