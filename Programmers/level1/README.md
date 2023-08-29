@@ -26,6 +26,22 @@
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | 12943.py |
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | 12944.py |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 12947.py |
+| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | 12950.py |
+| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | 12954.py |
+| [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | 12969.py |
+| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | 12977.py |
+| [\[1차\] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | 17681.py |
+| [\[1차\] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | 17682.py |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | 12948.py |
 | [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871) | 178871.py |
 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | 1845.py |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 42576.py |
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 42748.py |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 42840.py |
+| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 64061.py |
+| [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | 67256.py |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 42840.py |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 42840.py |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 42840.py |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 42840.py |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 42840.py |
