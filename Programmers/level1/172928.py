@@ -5,28 +5,45 @@ link: https://programmers.co.kr/learn/courses/30/lessons/172928
 """
 
 
-def validate_move(maps, route):
-    pass
+def move(park, pts, route):
+    v, n = route.split()
+    print(v, n)
+    code = {
+        "E": [0, 1],
+        "W": [0, -1],
+        "S": [1, 0],
+        "N": [-1, 0],
+    }
 
+    _x, _y = 0, 0
+    x, y = pts
+    for _ in range(int(n)):
+        _x, _y = x + code[v][0], y + code[v][1]
+        try:
+            if park[_x][_y] == "X":
+                break
+        except IndexError:
+            return pts
 
-def move(route):
-    pass
+    x += _x
+    y += _y
+
+    return x, y
 
 
 def solution(park, routes):
-    # maps = {i: k for i, k in enumerate(list("".join(park)))}
-    width = len(park[0])
-    maps = list("".join(park))
-    print(maps)
+    pts = (0, 0)
+    for i in range(len(park)):
+        for j in range(len(park[0])):
+            if park[i][j] == "S":
+                pts = (i, j)
+                break
 
-    start = maps.index("S")
-
-    result = []
     for route in routes:
-        if validate_move(maps, route):
-            result = move(route)
+        print("pts: ", pts)
+        pts = move(park, pts, route)
 
-    return result
+    return pts
 
 
 parks = [
@@ -43,3 +60,4 @@ routes = [
 
 for park, route in zip(parks, routes):
     print(solution(park, route))
+    print()
