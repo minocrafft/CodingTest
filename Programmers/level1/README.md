@@ -48,6 +48,8 @@
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [87389.py](87389.py)   |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [92334.py](92334.py)   |
 | [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)               | [133502.py](133502.py) |
+| [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)       | [142086.py](142086.py) |
+| [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)     | [147355.py](147355.py) |
 | [개인정보 수집 유효기간](https://programmers.co.kr/learn/courses/30/lessons/150370)      | [150370.py](150370.py) |
 | [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)                   | [159994.py](159994.py) |
 | [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | [160586.py](160586.py) |
