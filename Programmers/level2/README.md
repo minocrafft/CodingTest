@@ -6,6 +6,7 @@
 | [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)   | [181187.py](181187.py) |
 | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)    | [86971.py](86971.py)   |
 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)                  | [87946.py](87946.py)   |
+| [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                | [84512.py](84512.py)   |
 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)    | [77485.py](77485.py)   |
 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)           | [76502.py](76502.py)   |
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)           | [62048.py](62048.py)   |
