@@ -18,6 +18,7 @@
 | [명예의 전당(1)](https://programmers.co.kr/learn/courses/30/lessons/138447)              | [138447.py](138447.py) |
 | [기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798)             | [136798.py](136798.py) |
 | [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)                   | [135808.py](135808.py) |
+| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)            | [134240.py](134240.py) |
 | [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)               | [133502.py](133502.py) |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [92334.py](92334.py)   |
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [87389.py](87389.py)   |
