@@ -20,6 +20,7 @@
 | [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)                   | [135808.py](135808.py) |
 | [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)            | [134240.py](134240.py) |
 | [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)               | [133502.py](133502.py) |
+| [옹알이 (2)](https://programmers.co.kr/learn/courses/30/lessons/133499)                  | [133499.py](133499.py) |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [92334.py](92334.py)   |
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [87389.py](87389.py)   |
 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [86051.py](86051.py)   |
