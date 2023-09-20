@@ -21,6 +21,7 @@
 | [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)            | [134240.py](134240.py) |
 | [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)               | [133502.py](133502.py) |
 | [옹알이 (2)](https://programmers.co.kr/learn/courses/30/lessons/133499)                  | [133499.py](133499.py) |
+| [콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267)                   | [132267.py](132267.py) |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [92334.py](92334.py)   |
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [87389.py](87389.py)   |
 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [86051.py](86051.py)   |
@@ -64,5 +65,5 @@
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)            | [12912.py](12912.py)   |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)    | [12910.py](12910.py)   |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)             | [12906.py](12906.py)   |
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)         | [12903.py](12903.py)   |
-| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                        | [1845.py](1845.py)     |
+
+| [가운데 글자 가져오기](https://programmers.co.kr/l
