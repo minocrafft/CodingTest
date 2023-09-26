@@ -66,5 +66,4 @@
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)       | [12916.py](12916.py)   |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)            | [12912.py](12912.py)   |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)    | [12910.py](12910.py)   |
-
-| [같은 숫자는 싫어](https://programmers.co.kr/learn/courses
+| [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      | [12906.py](12906.py)   |
