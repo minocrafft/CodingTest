@@ -3,22 +3,20 @@
 
 link: https://school.programmers.co.kr/learn/courses/30/lessons/131128
 """
-
 from collections import Counter
 
 
 def solution(X, Y):
     X = Counter(X)
     Y = Counter(Y)
-    pairs = list((X & Y).elements())
+    pairs = sorted((X & Y).elements(), reverse=True)
+
     if not pairs:
         return "-1"
-
-    pairs = "".join(sorted(pairs, reverse=True))
-    if pairs[0] == "0":
+    elif pairs[0] == "0":
         return "0"
-
-    return pairs
+    else:
+        return "".join(pairs)
 
 
 X = [
