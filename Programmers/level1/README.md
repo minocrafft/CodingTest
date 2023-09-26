@@ -23,6 +23,7 @@
 | [옹알이 (2)](https://programmers.co.kr/learn/courses/30/lessons/133499)                  | [133499.py](133499.py) |
 | [콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267)                   | [132267.py](132267.py) |
 | [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)                      | [131705.py](131705.py) |
+| [숫자 짝꿍](https://programmers.co.kr/learn/courses/30/lessons/131128)                   | [131128.py](131128.py) |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [92334.py](92334.py)   |
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [87389.py](87389.py)   |
 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [86051.py](86051.py)   |
