@@ -24,6 +24,7 @@
 | [콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267)                   | [132267.py](132267.py) |
 | [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)                      | [131705.py](131705.py) |
 | [숫자 짝꿍](https://programmers.co.kr/learn/courses/30/lessons/131128)                   | [131128.py](131128.py) |
+| [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)          | [118666.py](118666.py) |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [92334.py](92334.py)   |
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [87389.py](87389.py)   |
 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [86051.py](86051.py)   |
@@ -34,6 +35,7 @@
 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                  | [76501.py](76501.py)   |
 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)             | [72410.py](72410.py)   |
 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)                         | [70128.py](70128.py)   |
+| [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)                 | [68935.py](68935.py)   |
 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)                | [67256.py](67256.py)   |
 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)         | [64061.py](64061.py)   |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)                     | [42840.py](42840.py)   |
@@ -63,7 +65,5 @@
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)         | [12919.py](12919.py)   |
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)           | [12918.py](12918.py)   |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [12917.py](12917.py)   |
-| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)       | [12916.py](12916.py)   |
-| [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)            | [12912.py](12912.py)   |
-| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)    | [12910.py](12910.py)   |
-| [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      | [12906.py](12906.py)   |
+
+| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses
