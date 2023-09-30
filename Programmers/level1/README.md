@@ -63,6 +63,7 @@
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)                | [12931.py](12931.py)   |
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)           | [12930.py](12930.py)   |
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                    | [12928.py](12928.py)   |
+| [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)                    | [12926.py](12926.py)   |
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)       | [12925.py](12925.py)   |
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)      | [12922.py](12922.py)   |
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)         | [12919.py](12919.py)   |
