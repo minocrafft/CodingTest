@@ -4,6 +4,7 @@
 | ----------------------------------------------------------------------------------- | ---------------------- |
 | [요격 시스템](https://programmers.co.kr/learn/courses/30/lessons/181188)            | [181188.py](181188.py) |
 | [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)   | [181187.py](181187.py) |
+| [연속된 부분 수열의 합](https://programmers.co.kr/learn/courses/30/lessons/178870)  | [178870.py](178870.py) |
 | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)    | [86971.py](86971.py)   |
 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)                  | [87946.py](87946.py)   |
 | [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                | [84512.py](84512.py)   |
@@ -27,6 +28,7 @@
 | [\[1차\] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [17677.py](17677.py)   |
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)         | [12973.py](12973.py)   |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)        | [12953.py](12953.py)   |
+| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [12951.py](12951.py)   |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)         | [12939.py](12939.py)   |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)             | [12909.py](12909.py)   |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)         | [12899.py](12899.py)   |
