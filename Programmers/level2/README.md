@@ -10,6 +10,7 @@
 | [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                | [84512.py](84512.py)   |
 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)    | [77485.py](77485.py)   |
 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)           | [76502.py](76502.py)   |
+| [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)      | [70129.py](70129.py)   |
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)           | [62048.py](62048.py)   |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)             | [60057.py](60057.py)   |
 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)               | [43165.py](43165.py)   |
@@ -29,6 +30,7 @@
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)         | [12973.py](12973.py)   |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)        | [12953.py](12953.py)   |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [12951.py](12951.py)   |
+| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)           | [12941.py](12941.py)   |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)         | [12939.py](12939.py)   |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)             | [12909.py](12909.py)   |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)         | [12899.py](12899.py)   |
