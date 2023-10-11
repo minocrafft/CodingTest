@@ -13,6 +13,18 @@ def solution(n):
     return fibonacci[-1] % 1234567
 
 
+# solution 2 using generator
+# def fibonacci(n):
+#     fibo = [0, 1]
+#     for i in range(2, n + 1):
+#         fibo.append(fibo[-1] + fibo[-2])
+#         yield fibo[-1]
+#
+#
+# def solution(n):
+#     return max(fibonacci(n)) % 1234567
+
+
 N = [3, 5]
 
 for n in N:
