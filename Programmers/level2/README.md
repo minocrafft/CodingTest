@@ -30,7 +30,10 @@
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)         | [12973.py](12973.py)   |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)        | [12953.py](12953.py)   |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [12951.py](12951.py)   |
+| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)             | [12945.py](12945.py)   |
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)           | [12941.py](12941.py)   |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)         | [12939.py](12939.py)   |
+| [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)             | [12924.py](12924.py)   |
+| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)            | [12911.py](12911.py)   |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)             | [12909.py](12909.py)   |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)         | [12899.py](12899.py)   |
