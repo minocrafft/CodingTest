@@ -27,6 +27,8 @@
 | [의상](https://programmers.co.kr/learn/courses/30/lessons/42578)                    | [42578.py](42578.py)   |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)           | [42577.py](42577.py)   |
 | [\[1차\] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [17677.py](17677.py)   |
+| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)           | [12981.py](12981.py)   |
+| [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)        | [12980.py](12980.py)   |
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)         | [12973.py](12973.py)   |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)        | [12953.py](12953.py)   |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [12951.py](12951.py)   |
