@@ -4,6 +4,10 @@
 link: https://school.programmers.co.kr/learn/courses/30/lessons/12985
 """
 
+# others
+# def solution(n, a, b):
+#     return ((a - 1) ^ (b - 1)).bit_length()
+
 
 def solution(n, a, b):
     answer = 1
