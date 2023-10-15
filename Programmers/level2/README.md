@@ -15,6 +15,7 @@
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)             | [60057.py](60057.py)   |
 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)               | [43165.py](43165.py)   |
 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)              | [42888.py](42888.py)   |
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                | [42885.py](42885.py)   |
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                    | [42842.py](42842.py)   |
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)               | [42839.py](42839.py)   |
 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                 | [42747.py](42747.py)   |
@@ -27,6 +28,7 @@
 | [의상](https://programmers.co.kr/learn/courses/30/lessons/42578)                    | [42578.py](42578.py)   |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)           | [42577.py](42577.py)   |
 | [\[1차\] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [17677.py](17677.py)   |
+| [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)             | [12985.py](12985.py)   |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)           | [12981.py](12981.py)   |
 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)        | [12980.py](12980.py)   |
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)         | [12973.py](12973.py)   |
