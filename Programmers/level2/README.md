@@ -5,6 +5,7 @@
 | [요격 시스템](https://programmers.co.kr/learn/courses/30/lessons/181188)            | [181188.py](181188.py) |
 | [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)   | [181187.py](181187.py) |
 | [연속된 부분 수열의 합](https://programmers.co.kr/learn/courses/30/lessons/178870)  | [178870.py](178870.py) |
+| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)              | [138476.py](138476.py) |
 | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)    | [86971.py](86971.py)   |
 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)                  | [87946.py](87946.py)   |
 | [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                | [84512.py](84512.py)   |
@@ -38,6 +39,7 @@
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)           | [12941.py](12941.py)   |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)         | [12939.py](12939.py)   |
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)             | [12924.py](12924.py)   |
+| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)               | [12914.py](12914.py)   |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)            | [12911.py](12911.py)   |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)             | [12909.py](12909.py)   |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)         | [12899.py](12899.py)   |
