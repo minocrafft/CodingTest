@@ -7,6 +7,7 @@
 | [연속된 부분 수열의 합](https://programmers.co.kr/learn/courses/30/lessons/178870)    | [178870.py](178870.py) |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                | [138476.py](138476.py) |
 | [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701) | [131701.py](131701.py) |
+| [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127)                | [131127.py](131127.py) |
 | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)      | [86971.py](86971.py)   |
 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)                    | [87946.py](87946.py)   |
 | [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                  | [84512.py](84512.py)   |
