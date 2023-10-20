@@ -10,6 +10,7 @@
 | [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127)                | [131127.py](131127.py) |
 | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)      | [86971.py](86971.py)   |
 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)                    | [87946.py](87946.py)   |
+| [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)           | [87390.py](87390.py)   |
 | [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                  | [84512.py](84512.py)   |
 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)      | [77485.py](77485.py)   |
 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)             | [76502.py](76502.py)   |
@@ -37,6 +38,7 @@
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)           | [12973.py](12973.py)   |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)          | [12953.py](12953.py)   |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)   | [12951.py](12951.py)   |
+| [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)               | [12949.py](12949.py)   |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)               | [12945.py](12945.py)   |
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)             | [12941.py](12941.py)   |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)           | [12939.py](12939.py)   |
