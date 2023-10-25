@@ -19,7 +19,6 @@ def solution(msg):
 
         for i, _ in enumerate(msg, 1):
             if msg[0:i] not in worddict:
-                print(msg[0:i], msg[0:i] not in worddict, msg[0 : i - 1])
                 answer.append(worddict[msg[0 : i - 1]])
                 worddict[msg[0:i]] = len(worddict) + 1
                 msg = msg[i - 1 :]
