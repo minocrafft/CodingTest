@@ -33,6 +33,7 @@
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)         | [42583.py](42583.py)   |
 | [의상](https://programmers.co.kr/learn/courses/30/lessons/42578)                       | [42578.py](42578.py)   |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)              | [42577.py](42577.py)   |
+| [\[3차\] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)               | [17684.py](17684.py)   |
 | [\[1차\] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)               | [17680.py](17680.py)   |
 | [\[1차\] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    | [17677.py](17677.py)   |
 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)                | [12985.py](12985.py)   |
