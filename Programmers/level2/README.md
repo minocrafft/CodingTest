@@ -52,3 +52,4 @@
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)               | [12911.py](12911.py)   |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [12909.py](12909.py)   |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)            | [12899.py](12899.py)   |
+| [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)            | [1844.py](1844.py)     |
