@@ -18,25 +18,20 @@ def bfs(maps, start):
     while queue:
         x, y = queue.popleft()
 
-        for i in range(4):
-            nx = x + dx[i]
-            ny = y + dy[i]
+        for xi, yi in zip(dx, dy):
+            nx = x + xi
+            ny = y + yi
 
             if (
-                (nx == 0 and ny == 0)
-                or nx < 0
-                or ny < 0
-                or nx >= N
-                or ny >= M
-                or maps[nx][ny] == 0
+                0 <= nx < N
+                and 0 <= ny < M
+                and maps[nx][ny] == 1
+                and (nx != 0 or ny != 0)
             ):
-                continue
-
-            if maps[nx][ny] == 1:
                 maps[nx][ny] = maps[x][y] + 1
                 queue.append((nx, ny))
 
-    return maps[N - 1][M - 1]
+    return maps[-1][-1]
 
 
 def solution(maps):
