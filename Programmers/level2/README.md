@@ -5,6 +5,7 @@
 | [요격 시스템](https://programmers.co.kr/learn/courses/30/lessons/181188)               | [181188.py](181188.py) |
 | [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)      | [181187.py](181187.py) |
 | [연속된 부분 수열의 합](https://programmers.co.kr/learn/courses/30/lessons/178870)     | [178870.py](178870.py) |
+| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)      | [154539.py](154539.py) |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | [138476.py](138476.py) |
 | [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701)  | [131701.py](131701.py) |
 | [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127)                 | [131127.py](131127.py) |
@@ -20,6 +21,7 @@
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                       | [64065.py](64065.py)   |
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)              | [62048.py](62048.py)   |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                | [60057.py](60057.py)   |
+| [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)                  | [49994.py](49994.py)   |
 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                  | [43165.py](43165.py)   |
 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)                 | [42888.py](42888.py)   |
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                   | [42885.py](42885.py)   |
