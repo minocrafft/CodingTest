@@ -22,6 +22,7 @@
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)              | [62048.py](62048.py)   |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                | [60057.py](60057.py)   |
 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)                  | [49994.py](49994.py)   |
+| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)                   | [49993.py](49993.py)   |
 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                  | [43165.py](43165.py)   |
 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)                 | [42888.py](42888.py)   |
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                   | [42885.py](42885.py)   |
