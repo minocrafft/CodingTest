@@ -2,8 +2,6 @@
 
 | Problems                                                                                 | Scripts                |
 | ---------------------------------------------------------------------------------------- | ---------------------- |
-| [요격 시스템](https://programmers.co.kr/learn/courses/30/lessons/181188)                 | [181188.py](181188.py) |
-| [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)        | [181187.py](181187.py) |
 | [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)                 | [178871.py](178871.py) |
 | [추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963)                   | [176963.py](176963.py) |
 | [공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928)                   | [172928.py](172928.py) |
@@ -11,6 +9,7 @@
 | [덧칠하기](https://programmers.co.kr/learn/courses/30/lessons/161989)                    | [161989.py](161989.py) |
 | [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | [160586.py](160586.py) |
 | [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)                   | [159994.py](159994.py) |
+| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)                 | [155652.py](155652.py) |
 | [개인정보 수집 유효기간](https://programmers.co.kr/learn/courses/30/lessons/150370)      | [150370.py](150370.py) |
 | [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)     | [147355.py](147355.py) |
 | [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)       | [142086.py](142086.py) |
@@ -27,6 +26,7 @@
 | [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)          | [118666.py](118666.py) |
 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [92334.py](92334.py)   |
 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [87389.py](87389.py)   |
+| [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)                 | [86491.py](86491.py)   |
 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [86051.py](86051.py)   |
 | [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)         | [82612.py](82612.py)   |
 | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)         | [81301.py](81301.py)   |
