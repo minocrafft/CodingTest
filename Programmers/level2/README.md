@@ -42,6 +42,7 @@
 | [\[3차\] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)        | [17686.py](17686.py)   |
 | [\[3차\] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)               | [17684.py](17684.py)   |
 | [\[1차\] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)               | [17680.py](17680.py)   |
+| [\[1차\] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)        | [17679.py](17679.py)   |
 | [\[1차\] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    | [17677.py](17677.py)   |
 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)                | [12985.py](12985.py)   |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)              | [12981.py](12981.py)   |
