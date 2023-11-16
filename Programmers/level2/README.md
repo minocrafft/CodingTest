@@ -6,6 +6,7 @@
 | [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)      | [181187.py](181187.py) |
 | [연속된 부분 수열의 합](https://programmers.co.kr/learn/courses/30/lessons/178870)     | [178870.py](178870.py) |
 | [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)      | [154539.py](154539.py) |
+| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)             | [154538.py](154538.py) |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | [138476.py](138476.py) |
 | [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/131701)           | [132265.py](132265.py) |
 | [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701)  | [131701.py](131701.py) |
