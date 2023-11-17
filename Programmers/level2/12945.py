@@ -2,6 +2,7 @@
 피보나치 수
 
 link: https://school.programmers.co.kr/learn/courses/30/lessons/12945
+type: DP
 """
 
 

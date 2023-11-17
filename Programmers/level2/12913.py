@@ -2,6 +2,7 @@
 땅따먹기
 
 link: https://school.programmers.co.kr/learn/courses/30/lessons/12913
+type: DP
 """
 
 
@@ -16,7 +17,13 @@ def solution(land):
     return max(land[-1])
 
 
-land = [[[1, 2, 3, 5], [5, 6, 7, 8], [4, 3, 2, 1]]]
+land = [
+    [
+        [1, 2, 3, 5],
+        [5, 6, 7, 8],
+        [4, 3, 2, 1],
+    ]
+]
 
 for data in land:
     print(solution(data))

@@ -2,6 +2,7 @@
 올바른 괄호
 
 link: https://programmers.co.kr/learn/courses/30/lessons/12909
+type: 구현
 """
 
 
@@ -20,3 +21,15 @@ def solution(s):
         return True
 
     return False
+
+
+S = [
+    "()()",
+    "(())()",
+    ")()(",
+    "(()(",
+]
+
+
+for data in S:
+    print(solution(data))

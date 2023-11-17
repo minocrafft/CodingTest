@@ -2,6 +2,7 @@
 최솟값 만들기
 
 link: https://school.programmers.co.kr/learn/courses/30/lessons/12941
+type: 구현
 """
 
 

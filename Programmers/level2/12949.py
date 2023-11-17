@@ -2,6 +2,7 @@
 행렬의 곱셈
 
 link: https://school.programmers.co.kr/learn/courses/30/lessons/12949
+type: 구현
 """
 
 

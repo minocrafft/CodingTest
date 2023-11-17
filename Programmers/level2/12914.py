@@ -2,6 +2,7 @@
 멀리 뛰기
 
 link: https://school.programmers.co.kr/learn/courses/30/lessons/12914
+type: DP
 """
 
 
