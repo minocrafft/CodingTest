@@ -18,6 +18,7 @@
 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)                     | [87946.py](87946.py)   | 순열       |
 | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)            | [87390.py](87390.py)   | 구현       |
 | [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)                   | [84512.py](84512.py)   | 중복순열   |
+| [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)       | [77885.py](77885.py)   | 진법 변환  |
 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)       | [77485.py](77485.py)   | 구현       |
 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)              | [76502.py](76502.py)   | 구현       |
 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [70129.py](70129.py)   | 구현       |
