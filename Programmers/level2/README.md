@@ -22,6 +22,7 @@
 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)       | [77485.py](77485.py)   | 구현       |
 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)              | [76502.py](76502.py)   | 구현       |
 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [70129.py](70129.py)   | 구현       |
+| [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)      | [68936.py](68936.py)   | 재귀함수   |
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                       | [64065.py](64065.py)   | 구현       |
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)              | [62048.py](62048.py)   | 구현       |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                | [60057.py](60057.py)   | 구현       |
