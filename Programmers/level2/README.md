@@ -33,6 +33,7 @@
 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                  | [43165.py](43165.py)   | 구현       |
 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)                 | [42888.py](42888.py)   | 구현       |
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                   | [42885.py](42885.py)   | 구현       |
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)               | [42883.py](42883.py)   | 그리디     |
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                       | [42842.py](42842.py)   | 구현       |
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                  | [42839.py](42839.py)   | 구현       |
 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                    | [42747.py](42747.py)   | 구현       |
