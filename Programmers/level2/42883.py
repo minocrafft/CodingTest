@@ -14,7 +14,7 @@ def solution(number, k):
             k -= 1
         stack.append(n)
 
-    return "".join(stack if k == 0 else stack[:-k])
+    return "".join(stack[: len(stack) - k])
 
 
 N = [
