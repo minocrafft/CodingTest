@@ -2,6 +2,7 @@
 
 | Problems                                                                                          | Scripts                |
 | ------------------------------------------------------------------------------------------------- | ---------------------- |
+| [\[PCCE 기출문제\] 1번 / 붕대 감기](https://programmers.co.kr/learn/courses/30/lessons/250137)    | [250137.py](250137.py) |
 | [\[PCCE 기출문제\] 9번 / 이웃한 칸](https://programmers.co.kr/learn/courses/30/lessons/250125)    | [250125.py](250125.py) |
 | [\[PCCE 기출문제\] 10번 / 데이터 분석](https://programmers.co.kr/learn/courses/30/lessons/250121) | [250121.py](250121.py) |
 | [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)                          | [178871.py](178871.py) |
