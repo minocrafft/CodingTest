@@ -22,6 +22,7 @@
 | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)       | [77885.py](77885.py)   | 진법 변환  |
 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)       | [77485.py](77485.py)   | 구현       |
 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)              | [76502.py](76502.py)   | 구현       |
+| [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                | [72411.py](72411.py)   | 조합       |
 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [70129.py](70129.py)   | 구현       |
 | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)      | [68936.py](68936.py)   | 재귀함수   |
 | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)                | [68645.py](68645.py)   | 구현       |
