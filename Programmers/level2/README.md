@@ -6,6 +6,7 @@
 | [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)      | [181187.py](181187.py) | 구현       |
 | [연속된 부분 수열의 합](https://programmers.co.kr/learn/courses/30/lessons/178870)     | [178870.py](178870.py) | 구현       |
 | [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)      | [154539.py](154539.py) | 스택       |
+| [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)               | [154540.py](154540.py) | DFS        |
 | [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)             | [154538.py](154538.py) | 구현       |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | [138476.py](138476.py) | 구현       |
 | [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265)           | [132265.py](132265.py) | 구현       |
