@@ -50,6 +50,7 @@
 | [\[3차\] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)         | [17687.py](17687.py)   | 구현       |
 | [\[3차\] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)        | [17686.py](17686.py)   | 구현       |
 | [\[3차\] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)               | [17684.py](17684.py)   | 구현       |
+| [\[3차\] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)           | [17683.py](17683.py)   | 구현       |
 | [\[1차\] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)               | [17680.py](17680.py)   | 구현       |
 | [\[1차\] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)        | [17679.py](17679.py)   | 구현       |
 | [\[1차\] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    | [17677.py](17677.py)   | 구현       |

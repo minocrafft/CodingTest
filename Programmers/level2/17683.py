@@ -2,7 +2,7 @@
 [3차] 방금그곡
 
 link: https://school.programmers.co.kr/learn/courses/30/lessons/17683
-type:
+type: 구현
 """
 
 
@@ -10,17 +10,17 @@ def fuse(code):
     target = {"C#": "c", "D#": "d", "F#": "f", "G#": "g", "A#": "a"}
     for t in target:
         code = code.replace(t, target[t])
-
     return code
 
 
 def parse(musicinfo):
     start, end, title, code = musicinfo.split(",")
-    code = fuse(code)
+    startHour, startMin = map(int, start.split(":"))
+    endHour, endMin = map(int, end.split(":"))
 
-    start = [int(st) for st in start.split(":")]
-    end = [int(et) for et in end.split(":")]
-    hour, minute = end[0] - start[0], end[1] - start[1]
+    hour = endHour - startHour
+    minute = endMin - startMin
+    code = fuse(code)
 
     count = hour * 60 + minute
     if count > len(code):
@@ -29,17 +29,18 @@ def parse(musicinfo):
     else:
         code = code[:count]
 
-    return title, code
+    return title, code, count
 
 
 def solution(m, musicinfos):
     m = fuse(m)
+    musics = [0, "(None)"]
     for music in musicinfos:
-        title, fullcode = parse(music)
-        if m in fullcode:
-            return title
+        title, fullcode, count = parse(music)
+        if m in fullcode and musics[0] < count:
+            musics = [count, title]
 
-    return "(None)"
+    return musics[-1]
 
 
 m = [
