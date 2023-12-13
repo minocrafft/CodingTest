@@ -30,6 +30,7 @@
 | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)                | [68645.py](68645.py)   | 구현         |
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                       | [64065.py](64065.py)   | 구현         |
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)              | [62048.py](62048.py)   | 구현         |
+| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                  | [60058.py](60058.py)   | 재귀함수     |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                | [60057.py](60057.py)   | 구현         |
 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)                  | [49994.py](49994.py)   | 구현         |
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)                   | [49993.py](49993.py)   | 구현         |
