@@ -29,6 +29,7 @@
 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [70129.py](70129.py)   | 구현         |
 | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)      | [68936.py](68936.py)   | 재귀함수     |
 | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)                | [68645.py](68645.py)   | 구현         |
+| [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)                | [67257.py](67257.py)   | 순열         |
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                       | [64065.py](64065.py)   | 구현         |
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)              | [62048.py](62048.py)   | 구현         |
 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                  | [60058.py](60058.py)   | 재귀함수     |
