@@ -61,6 +61,7 @@
 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)                | [12985.py](12985.py)   | 구현         |
 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)              | [12981.py](12981.py)   | 구현         |
 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)           | [12980.py](12980.py)   | 구현         |
+| [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)                       | [12978.py](12978.py)   | 최단거리     |
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)            | [12973.py](12973.py)   | 스택         |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)           | [12953.py](12953.py)   | 구현         |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | [12951.py](12951.py)   | 구현         |
