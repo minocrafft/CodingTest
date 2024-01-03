@@ -9,6 +9,7 @@
 | [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)      | [154539.py](154539.py) | 스택         |
 | [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)               | [154540.py](154540.py) | DFS          |
 | [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)             | [154538.py](154538.py) | 구현         |
+| [시소 짝꿍](https://programmers.co.kr/learn/courses/30/lessons/152996)                 | [152996.py](152996.py) | 구현         |
 | [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)         | [148653.py](148653.py) | 구현         |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | [138476.py](138476.py) | 구현         |
 | [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265)           | [132265.py](132265.py) | 구현         |
