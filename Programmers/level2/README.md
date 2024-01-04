@@ -70,6 +70,7 @@
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)                | [12945.py](12945.py)   | DP           |
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | [12941.py](12941.py)   | 구현         |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)            | [12939.py](12939.py)   | 구현         |
+| [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)               | [12936.py](12936.py)   | 재귀함수     |
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                | [12924.py](12924.py)   | 구현         |
 | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                  | [12914.py](12914.py)   | DP           |
 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)                   | [12913.py](12913.py)   | DP           |
