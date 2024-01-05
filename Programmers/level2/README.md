@@ -11,6 +11,7 @@
 | [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)             | [154538.py](154538.py) | 구현         |
 | [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)         | [148653.py](148653.py) | 구현         |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | [138476.py](138476.py) | 구현         |
+| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807)          | [135807.py](135807.py) | 최대공약수   |
 | [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265)           | [132265.py](132265.py) | 구현         |
 | [택배상자](https://programmers.co.kr/learn/courses/30/lessons/131704)                  | [131704.py](131704.py) | 구현         |
 | [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701)  | [131701.py](131701.py) | 구현         |
