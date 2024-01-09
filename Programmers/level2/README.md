@@ -77,6 +77,7 @@
 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)                   | [12913.py](12913.py)   | DP           |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)               | [12911.py](12911.py)   | 구현         |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [12909.py](12909.py)   | 구현         |
+| [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)      | [12905.py](12905.py)   | DP           |
 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)               | [12900.py](12900.py)   | DP           |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)            | [12899.py](12899.py)   | 구현         |
 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)            | [1844.py](1844.py)     | BFS          |
