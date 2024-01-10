@@ -12,6 +12,7 @@
 | [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)             | [154538.py](154538.py) | 구현         |
 | [시소 짝꿍](https://programmers.co.kr/learn/courses/30/lessons/152996)                 | [152996.py](152996.py) | 구현         |
 | [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)         | [148653.py](148653.py) | 구현         |
+| [테이블 해시 함수](https://programmers.co.kr/learn/courses/30/lessons/147354)          | [147354.py](147354.py) | 구현         |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | [138476.py](138476.py) | 구현         |
 | [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807)          | [135807.py](135807.py) | 최대공약수   |
 | [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265)           | [132265.py](132265.py) | 구현         |
