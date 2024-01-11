@@ -71,6 +71,7 @@
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)           | [12953.py](12953.py)   | 구현         |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | [12951.py](12951.py)   | 구현         |
 | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)                | [12949.py](12949.py)   | 구현         |
+| [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)                | [12946.py](12946.py)   | 재귀함수     |
 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)                | [12945.py](12945.py)   | DP           |
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | [12941.py](12941.py)   | 구현         |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)            | [12939.py](12939.py)   | 구현         |
