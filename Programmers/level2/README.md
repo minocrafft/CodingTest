@@ -5,6 +5,7 @@
 | [요격 시스템](https://programmers.co.kr/learn/courses/30/lessons/181188)               | [181188.py](181188.py) | 구현         |
 | [두 원 사이의 정수 쌍](https://programmers.co.kr/learn/courses/30/lessons/181187)      | [181187.py](181187.py) | 구현         |
 | [연속된 부분 수열의 합](https://programmers.co.kr/learn/courses/30/lessons/178870)     | [178870.py](178870.py) | 구현         |
+| [광물 캐기](https://programmers.co.kr/learn/courses/30/lessons/172927)                 | [172927.py](172927.py) | 구현         |
 | [리코쳇 로봇](https://programmers.co.kr/learn/courses/30/lessons/169199)               | [169199.py](169199.py) | DFS          |
 | [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/159993)                 | [159993.py](159993.py) | BFS          |
 | [호텔 대실](https://programmers.co.kr/learn/courses/30/lessons/155651)                 | [155651.py](155651.py) | 누적합, imos |
