@@ -10,7 +10,7 @@ def solution(n):
     pass
 
 
-N = []
+datas = []
 
-for data in N:
+for data in datas:
     print(solution(*data))
