@@ -19,11 +19,12 @@
 | [점 찍기](https://programmers.co.kr/learn/courses/30/lessons/140107)                   | [140107.py](140107.py) | 수식         |
 | [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | [138476.py](138476.py) | 구현         |
 | [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807)          | [135807.py](135807.py) | 최대공약수   |
+| [우박수열 정적분](https://programmers.co.kr/learn/courses/30/lessons/134239)           | [134239.py](134239.py) | 구현         |
 | [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265)           | [132265.py](132265.py) | 구현         |
 | [택배상자](https://programmers.co.kr/learn/courses/30/lessons/131704)                  | [131704.py](131704.py) | 구현         |
 | [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701)  | [131701.py](131701.py) | 구현         |
-| [두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667)      | [118667.py](118667.py) | 투포인터     |
 | [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127)                 | [131127.py](131127.py) | 구현         |
+| [두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667)      | [118667.py](118667.py) | 투포인터     |
 | [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)             | [92341.py](92341.py)   | 구현         |
 | [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | [92335.py](92335.py)   | 구현         |
 | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)       | [86971.py](86971.py)   | BFS          |
